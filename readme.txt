@@ -2,6 +2,6 @@
 - Nicolas Burbano
 - Jorge Cordero
 - Jesus Gonzalez
-- Jhoao Sanchez
+- Jhoaho Sanchez
 - Martín Fierro
 - Daniel Velín
